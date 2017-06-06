@@ -80,7 +80,10 @@ $baseSkills = baseSkills($skills, $atribut);
 $randSkills = randSkills($baseSkills);
 $randSkillsAdd = randSkillsAdd($randSkills, $perk);
 
-print_r($randSkillsAdd);
-print_r($skillsIncreas);
-print_r($perk);
+//print_r($randSkillsAdd);
+//print_r($skillsIncreas);
+//print_r($perk);
+
+
+
  
